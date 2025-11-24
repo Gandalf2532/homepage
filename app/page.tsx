@@ -9,7 +9,7 @@ export default function Home() {
           <Image src="/Profilbild-cropped.png" alt="Logo" width={100} height={100} className='rounded-full m-2 max-w-30 flex-3/7' />
         </div>
         <div className='sm:items-start p-8 px-16 text-2xl text-center'>
-            <p>Das ist meine (wunderschöne) seite, die <var>root</var> meiner Domain ist, die ich nur für private Zwecke verwende.</p>
+            <p>Das ist meine (wunderschöne) Seite, die <var>root</var> meiner Domain ist, die ich nur für private Zwecke verwende.</p>
         </div>
       </main>
       <footer className="static">
